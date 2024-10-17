@@ -30,7 +30,7 @@ kiwisolver==1.2.0
 markdown==3.2.2
 matplotlib
 nltk==3.5
-numpy==1.19.0
+numpy
 oauthlib==3.1.0
 opt-einsum
 pandas
